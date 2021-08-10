@@ -1,1 +1,1 @@
-# Spring ve React ile Web Uygulamasi Gelistirmek
+# Developing Web Applications with Spring and React
